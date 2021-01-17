@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rate_text_on_color_bg">#FFFFFF</color>
+    <color name="rate_text_on_white_bg">#000000</color>
+    <color name="rate_light">#fbc02d</color>
+</resources>
